@@ -1,3 +1,3 @@
-Not free
-Not for commercial Use
-Not open source
+*Not free
+*Not for commercial use
+*Not open source
